@@ -1,0 +1,30 @@
+# Site settings
+title: "The Energy Paradox"
+subtitle: "Why CPC's Survival Depends on Embracing the Transition It Fears"
+description: "A Responsible Innovation Strategy for Taiwan's Energy Giant"
+author: "Sustainability & Responsible Business Consultant"
+
+# Site URL (for GitHub Pages user site)
+url: "https://quantswizard-coder.github.io"
+baseurl: ""
+
+# Jekyll theme
+theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - note.pdf
+  - github-setup-guide.md
+  - visual-assets-guide.md
+  - subblog.md
+  - CLAUDE.md
