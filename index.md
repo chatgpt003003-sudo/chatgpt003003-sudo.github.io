@@ -3,6 +3,21 @@ layout: default
 title: "The Energy Paradox: Why CPC's Survival Depends on Embracing the Transition It Fears"
 ---
 
+<div class="title-page" style="text-align: center; padding: 60px 20px; margin-bottom: 40px; border-bottom: 2px solid #e5e7eb;">
+
+## Imaginaries for Sustainable and Responsible Business
+
+# CPC Corporation: A Responsible Innovation Strategy for Taiwan's Energy Transition
+
+---
+
+**Module:** Responsible Business: Theory and Practice (36178)
+**Programme:** BSc Business Management (Singapore)
+**Institution:** University of Birmingham
+**Word Count:** ~1,500 words
+
+</div>
+
 # The Energy Paradox: Why CPC's Survival Depends on Embracing the Transition It Fears
 
 **A Wake-Up Call for Taiwan's Energy Giant**
@@ -17,6 +32,8 @@ title: "The Energy Paradox: Why CPC's Survival Depends on Embracing the Transiti
 Imagine controlling 78% of a nation's fuel market—and watching that dominance become your biggest liability. That's exactly where CPC Corporation finds itself today.
 
 Taiwan's state-owned energy giant runs 2,000 service stations and controls everything from oil exploration to retail distribution.[1] For decades, this vertical integration was a competitive advantage. Now? It's a structural vulnerability in a nation racing toward net-zero.
+
+This matters far beyond CPC. Taiwan is the world's semiconductor manufacturing hub—TSMC alone produces over 90% of advanced chips globally. Energy security isn't just an environmental concern; it's an economic imperative for a nation whose tech exports depend on reliable, clean power. CPC's transformation is inseparable from Taiwan's competitiveness in the global economy.
 
 Here's the thing: Taiwan isn't just talking about climate action anymore. It's law. The Climate Change Response Act kicked in on 15 February 2023, establishing mandatory carbon pricing for major emitters.[4] Carbon fees started on 1 January 2025, with companies facing their first payment obligations in May 2026.[3][5] Taiwan became the 18th nation globally to enshrine net-zero targets in legislation.[6]
 
@@ -64,6 +81,11 @@ Researchers have identified four dimensions that matter here. And they map perfe
 
 When you get these four dimensions right, something interesting happens: you align the Triple Bottom Line. Economic viability (by anticipating asset devaluation). Social alignment (through genuine community partnership). Environmental leadership (by actively advancing Taiwan's 2050 Net-Zero Pathway).[2][7]
 
+This approach directly maps onto the **ESG framework**:
+- **Environmental**: Pillars 1 and 2 address emissions reduction, resource efficiency, and climate risk management
+- **Social**: Pillar 4 ensures community partnership, just transition for workers, and stakeholder engagement
+- **Governance**: Pillar 3 establishes transparency, ethical procurement, and anti-corruption measures
+
 ---
 
 ## The Four Pillars: A Roadmap for Transformation
@@ -74,7 +96,7 @@ When you get these four dimensions right, something interesting happens: you ali
 ![Systems Thinking Causal Loop Diagram showing feedback loops and leverage points across the four pillars](assets/images/four-pillars-system.svg)
 *Figure 3: Systems Thinking Analysis—How the four pillars interconnect through reinforcing loops (R1, R2) and balancing loops (B1), with leverage points (L1-L4) for strategic intervention*
 
-### Pillar 1: Climate Action & Net-Zero Transition
+### Pillar 1: Climate Action & Net-Zero Transition *(SDG 7: Affordable and Clean Energy; SDG 13: Climate Action)*
 
 Incremental efficiency improvements won't cut it anymore. CPC needs a fundamental asset pivot.
 
@@ -84,7 +106,7 @@ CPC should do something similar: gradually divest high-carbon petrochemical unit
 
 What about that controversial Third LNG Terminal? Reframe it as a future Blue Hydrogen Hub for heavy industry. Turn stranded infrastructure into critical hydrogen supply for Taiwan's decarbonisation.[13]
 
-### Pillar 2: Circular Thinking & Regenerative Models
+### Pillar 2: Circular Thinking & Regenerative Models *(SDG 12: Responsible Consumption and Production)*
 
 The old model is linear: extract, refine, waste. The new model? Symbiotic systems where waste becomes resource.
 
@@ -92,7 +114,7 @@ Imagine co-locating Biogas Upgrading Units at CPC fuel stations, converting loca
 
 That's how you turn your largest environmental liability into an economic asset.
 
-### Pillar 3: Governance & Ethical Leadership
+### Pillar 3: Governance & Ethical Leadership *(SDG 16: Peace, Justice and Strong Institutions)*
 
 Here's an irony: CPC's state-owned status—often seen as bureaucratic deadweight—could actually be a strategic asset.
 
@@ -102,7 +124,7 @@ But what about that corruption scandal? Address it head-on with a "Glass Pipelin
 
 Then use Green Bonds to fund geothermal and hydrogen projects at lower interest rates. And establish a "Green Skills Fund" to retrain workers in geothermal drilling and hydrogen maintenance.[19][20]
 
-### Pillar 4: Community Engagement & Conflict Management
+### Pillar 4: Community Engagement & Storytelling *(SDG 8: Decent Work; SDG 11: Sustainable Cities)*
 
 This is where CPC has to rebuild trust. And that means addressing conflict directly—not hoping it goes away.
 
@@ -113,6 +135,8 @@ That's not just PR. It's a genuine shift from extractive imposition to partnersh
 **Managing Worker Conflict:** Here's the deepest organisational resistance: workers fear that energy transition means workforce abandonment. Address it directly with a "Drilling for the Future" campaign—celebrating CPC's workforce as the geothermal pioneers of tomorrow.[20]
 
 The message? This isn't about replacing you. It's about upgrading your skills. Your drilling expertise is exactly what Taiwan's geothermal revolution needs.
+
+**Storytelling & Impact Communication:** Launch "Taiwan's Energy Pioneers" multimedia campaign documenting CPC workers transitioning to geothermal roles. Partner with Taiwan Public Television to create a documentary series following real workers through retraining. Publish an annual "Transition Impact Report" co-authored with community stakeholders—not corporate PR, but authentic narratives of change. This creative storytelling approach transforms CPC from villain to protagonist in Taiwan's energy story.
 
 **Table 2: CPC's Four-Pillar Transformation Strategy**
 
