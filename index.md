@@ -18,7 +18,7 @@ Imagine controlling 78% of a nation's fuel market, only to watch that dominance 
 
 Taiwan's state-owned energy giant runs 2,000 service stations and controls everything from oil exploration to retail distribution.[1] For decades, this vertical integration was a competitive advantage. Now? It's a structural vulnerability in a nation racing toward net-zero.
 
-Taiwan isn't just talking about climate action anymore. It's law. The Climate Change Response Act kicked in on 15 February 2023, establishing mandatory carbon pricing for major emitters.[4] Carbon fees started on 1 January 2025, with companies facing their first payment obligations in May 2026.[3][5] Taiwan became the 18th nation globally to enshrine net-zero targets in legislation.[6]
+Taiwan isn't just talking about climate action anymore. It's law. The Climate Change Response Act kicked in on 15 February 2023, establishing mandatory [carbon pricing](https://unfccc.int/topics/introduction-to-climate-finance) for major emitters.[4] Carbon fees started on 1 January 2025, with companies facing their first payment obligations in May 2026.[3][5] Taiwan became the 18th nation globally to enshrine net-zero targets in legislation.[6]
 
 **Table 1: Taiwan's Energy Transition Targets**
 
@@ -75,7 +75,7 @@ When you get these four dimensions right, something interesting happens: you ali
 ![Systems Thinking Causal Loop Diagram showing feedback loops and leverage points across the four pillars](assets/images/four-pillars-system.svg)
 *Figure 4: Systems Thinking Analysis showing how the four pillars interconnect through reinforcing loops (R1, R2) and balancing loops (B1), with leverage points (L1-L4) for strategic intervention*
 
-### Pillar 1: Climate Action & Net-Zero Transition *(SDG 7: Affordable and Clean Energy; SDG 13: Climate Action)*
+### Pillar 1: Climate Action & Net-Zero Transition *([SDG 7](https://sdgs.un.org/goals/goal7): Affordable and Clean Energy; [SDG 13](https://sdgs.un.org/goals/goal13): Climate Action)*
 
 Incremental efficiency improvements won't cut it anymore. CPC needs a fundamental asset pivot.
 
@@ -87,15 +87,15 @@ What about that controversial Third LNG Terminal? Reframe it as a future Blue Hy
 
 **Government Support & Cost Feasibility:** Taiwan's Bureau of Energy allocated NT$5.67 billion (2024-2030) for geothermal development under the Renewable Energy Development Act. The Feed-in Tariff for geothermal (NT$5.1956/kWh) exceeds solar rates (NT$4.0-4.5/kWh), providing strong investment incentives.[7] CPC's existing drilling expertise reduces capital costs by an estimated 15 to 20% versus new market entrants, a critical competitive advantage that makes this pivot economically viable.
 
-### Pillar 2: Circular Thinking & Regenerative Models *(SDG 12: Responsible Consumption and Production)*
+### Pillar 2: Circular Thinking & Regenerative Models *([SDG 12](https://sdgs.un.org/goals/goal12): Responsible Consumption and Production)*
 
 The old model is linear: extract, refine, waste. The new model? Symbiotic systems where waste becomes resource.
 
-Imagine co-locating Biogas Upgrading Units at CPC fuel stations, converting local agricultural waste into renewable natural gas.[16] Or scaling Carbon Capture and Utilisation (CCU) by partnering with China Steel Corporation to capture refinery CO₂ emissions and convert them into commercial products.[1]
+Imagine co-locating Biogas Upgrading Units at CPC fuel stations, converting local agricultural waste into renewable natural gas.[16] Or scaling Carbon Capture and Utilisation (CCU) by partnering with [China Steel Corporation](https://www.csc.com.tw/csc_e/) to capture refinery CO₂ emissions and convert them into commercial products.[1]
 
 That's how you turn your largest environmental liability into an economic asset.
 
-### Pillar 3: Governance & Ethical Leadership *(SDG 16: Peace, Justice and Strong Institutions)*
+### Pillar 3: Governance & Ethical Leadership *([SDG 16](https://sdgs.un.org/goals/goal16): Peace, Justice and Strong Institutions)*
 
 Here's an irony: CPC's state-owned status, often seen as bureaucratic deadweight, could actually be a strategic asset.
 
@@ -105,7 +105,7 @@ But what about that corruption scandal? Address it head-on with a "Glass Pipelin
 
 Then use Green Bonds to fund geothermal and hydrogen projects at lower interest rates. And establish a "Green Skills Fund" to retrain workers in geothermal drilling and hydrogen maintenance.[19][20]
 
-### Pillar 4: Community Engagement & Storytelling *(SDG 8: Decent Work; SDG 11: Sustainable Cities)*
+### Pillar 4: Community Engagement & Storytelling *([SDG 8](https://sdgs.un.org/goals/goal8): Decent Work; [SDG 11](https://sdgs.un.org/goals/goal11): Sustainable Cities)*
 
 This is where CPC has to rebuild trust. And that means addressing conflict directly, not hoping it goes away.
 
@@ -128,10 +128,10 @@ This is where CPC has to rebuild trust. And that means addressing conflict direc
 
 | Pillar | ESG Dimension | Primary SDGs | Key Performance Indicators |
 |--------|---------------|--------------|----------------------------|
-| Climate Action | **E** - Environmental | SDG 7, SDG 13 | Emissions reduction (tCO₂e), renewable capacity (MW) |
-| Circular Economy | **E** - Environmental | SDG 12, SDG 9 | Waste diverted (%), resource efficiency ratio |
-| Governance | **G** - Governance | SDG 16, SDG 8 | Transparency score, procurement audit compliance |
-| Community | **S** - Social | SDG 8, SDG 11 | Jobs transitioned, community trust index |
+| Climate Action | **E** - Environmental | [SDG 7](https://sdgs.un.org/goals/goal7), [SDG 13](https://sdgs.un.org/goals/goal13) | Emissions reduction (tCO₂e), renewable capacity (MW) |
+| Circular Economy | **E** - Environmental | [SDG 12](https://sdgs.un.org/goals/goal12), [SDG 9](https://sdgs.un.org/goals/goal9) | Waste diverted (%), resource efficiency ratio |
+| Governance | **G** - Governance | [SDG 16](https://sdgs.un.org/goals/goal16), [SDG 8](https://sdgs.un.org/goals/goal8) | Transparency score, procurement audit compliance |
+| Community | **S** - Social | [SDG 8](https://sdgs.un.org/goals/goal8), [SDG 11](https://sdgs.un.org/goals/goal11) | Jobs transitioned, community trust index |
 
 *This matrix demonstrates how CPC's four-pillar strategy systematically addresses all ESG dimensions while advancing multiple UN Sustainable Development Goals.*
 
