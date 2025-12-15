@@ -3,21 +3,6 @@ layout: default
 title: "The Energy Paradox: Why CPC's Survival Depends on Embracing the Transition It Fears"
 ---
 
-<div class="title-page" style="text-align: center; padding: 60px 20px; margin-bottom: 40px; border-bottom: 2px solid #e5e7eb;">
-
-## Imaginaries for Sustainable and Responsible Business
-
-# CPC Corporation: A Responsible Innovation Strategy for Taiwan's Energy Transition
-
----
-
-**Module:** Responsible Business: Theory and Practice (36178)
-**Programme:** BSc Business Management (Singapore)
-**Institution:** University of Birmingham
-**Word Count:** ~1,500 words
-
-</div>
-
 # The Energy Paradox: Why CPC's Survival Depends on Embracing the Transition It Fears
 
 **A Wake-Up Call for Taiwan's Energy Giant**
@@ -54,6 +39,9 @@ Here's the thing: Taiwan isn't just talking about climate action anymore. It's l
 But regulatory pressure is only part of the story. CPC is also facing a legitimacy crisis.
 
 The October 2022 Dalin refinery explosion traumatised the surrounding community—another incident in decades of industrial accidents.[9] It's a symptom of a company that's been operating on the "Decide-Announce-Defend" model: build first, deal with community concerns later. That approach isn't working anymore.
+
+![Dalin refinery explosion October 2022 - massive fire at CPC industrial facility](assets/images/dalin-explosion.jpg)
+*Figure 2: The October 2022 Dalin refinery explosion—decades of industrial accidents have eroded CPC's social license. Source: Focus Taiwan[9]*
 
 And then there's the corruption investigation. In December 2025, prosecutors launched a probe into CPC's Third LNG Terminal project, with alleged irregularities inflating costs from NT$9.4 billion to NT$25.3 billion.[10]
 
