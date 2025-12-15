@@ -49,11 +49,21 @@ Here's what makes this urgent: CPC emits 6.38 metric tons of CO₂e for every NT
 
 ## What is Responsible Innovation—and Why Does CPC Need It?
 
-Responsible Innovation means "taking care of the future through collective stewardship of science and innovation in the present."[12] Unlike traditional CSR—which compensates for harm after the fact—it's forward-looking, designing strategy around societal values before problems emerge.
+So what exactly is Responsible Innovation? Think of it as "taking care of the future through collective stewardship of science and innovation in the present."[12]
 
-Four dimensions map onto CPC's vulnerabilities:[12] **Anticipation** (seeing carbon pricing risks before they hit), **Reflexivity** (admitting current approaches aren't working), **Inclusion** (co-designing with communities, not imposing on them), and **Responsiveness** (integrating stakeholder feedback into decisions).
+Unlike traditional Corporate Social Responsibility—which often means compensating for harm after the fact—Responsible Innovation is forward-looking. It's about designing your strategy around societal values before problems emerge, not after.
 
-When aligned, these dimensions deliver the Triple Bottom Line: economic viability, social alignment, and environmental leadership.[2][7]
+Researchers have identified four dimensions that matter here. And they map perfectly onto CPC's vulnerabilities:[12]
+
+**Anticipation** means seeing risks before they hit you. Carbon pricing is creating financial liabilities right now. CPC can't keep defending aging refinery infrastructure—it needs to anticipate which assets will become obsolete and move capital accordingly.
+
+**Reflexivity** is about confronting your own assumptions. CPC's opacity and risk-averse engineering culture enabled both the corruption scandal and the safety failures. Real reflexivity means admitting: what we've been doing isn't working.
+
+**Inclusion** means actually co-designing solutions with communities and workers—not imposing infrastructure and hoping for the best. The Dalin explosion happened in a community that was never genuinely consulted. That has to change.
+
+**Responsiveness** is about adapting when stakeholders raise concerns. Not defending pre-determined plans, but actually integrating feedback into decisions.
+
+When you get these four dimensions right, something interesting happens: you align the Triple Bottom Line. Economic viability (by anticipating asset devaluation). Social alignment (through genuine community partnership). Environmental leadership (by actively advancing Taiwan's 2050 Net-Zero Pathway).[2][7]
 
 ---
 
