@@ -233,5 +233,3 @@ CPC's story doesn't have to end like Kodak or Blockbuster. It can end like Ørst
 [24] Sovacool, B.K. and Griffiths, S. (2020) 'Culture and low-carbon energy transitions', *Nature Energy*, 5, pp. 685–693.
 
 ---
-
-*December 2025*
