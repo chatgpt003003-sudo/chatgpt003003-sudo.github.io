@@ -5,8 +5,6 @@ title: "The Energy Paradox: Why CPC's Survival Depends on Embracing the Transiti
 
 # The Energy Paradox: Why CPC's Survival Depends on Embracing the Transition It Fears
 
-**By Lee Chen Hao** | UoB Student · Passionate about Taiwan's sustainable future
-
 **A Wake-Up Call for Taiwan's Energy Giant**
 
 ![Hero image: Renewable energy transition - solar panels and wind turbines representing Taiwan's clean energy future](assets/images/hero-energy-transition.jpg)

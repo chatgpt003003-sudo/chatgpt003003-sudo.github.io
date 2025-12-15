@@ -1,15 +1,15 @@
 # Site settings
-title: "The Energy Paradox"
-subtitle: "Why CPC's Survival Depends on Embracing the Transition It Fears"
-description: "A Responsible Innovation Strategy for Taiwan's Energy Giant"
-author: "Sustainability & Responsible Business Consultant"
+title: "Lee Chen Hao"
+description: "UoB Student · Passionate about Taiwan's sustainable future"
+author: "Lee Chen Hao"
 
 # Site URL (for GitHub Pages user site)
-url: "https://chatgpt003003-sudo.github.io"
+url: "https://sustainable-advocate.github.io"
 baseurl: ""
 
 # Jekyll theme
 theme: jekyll-theme-minimal
+show_downloads: false
 
 # Build settings
 markdown: kramdown
